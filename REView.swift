@@ -2,8 +2,6 @@
 //  REView.swift
 //  List
 //
-//  Created by Oziel Alameda on 07/06/23.
-//
 
 import SwiftUI
 
